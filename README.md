@@ -1,10 +1,5 @@
-## Hi there 👋
 
-
-<!-- Banner -->
-![Banner](https://github.com/Rishiraj-1/Rishiraj-1/blob/main/banner.png)
-
-# Hi, I'm Your Name 👋
+# Hi, I'm Rishiraj  👋
 Welcome to my GitHub profile! 🚀
 
 
