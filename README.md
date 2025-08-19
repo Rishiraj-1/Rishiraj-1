@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+<!-- Banner -->
+![Banner](https://github.com/Rishiraj-1/Rishiraj-1/blob/main/banner.png)
+
+# Hi, I'm Your Name 👋
+Welcome to my GitHub profile! 🚀
+
+
 <!--
 **Rishiraj-1/Rishiraj-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
