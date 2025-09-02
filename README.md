@@ -1,7 +1,7 @@
 
 # Hi, I'm Rishiraj  👋
 Welcome to my GitHub profile! 🚀
-my name is rishiraj kushwah
+
 
 <!--
 **Rishiraj-1/Rishiraj-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
