@@ -1,5 +1,5 @@
 
-# Hi, I'm Rishiraj  👋
+# Hi, I'm Rishiraj! 👋
 Welcome to my GitHub profile! 🚀
 
 ## 🌐 Socials:
