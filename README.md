@@ -338,7 +338,7 @@ Led end-to-end engineering for a cross-functional hackathon team building produc
 ## ◈ GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishiraj-1&theme=discord&no-frame=true&no-bg=false&margin-w=6&column=7&title_color=a78bfa" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishiraj-1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -357,7 +357,7 @@ Led end-to-end engineering for a cross-functional hackathon team building produc
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishiraj-1/Rishiraj-1/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishiraj-1/Rishiraj-1/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Rishiraj-1/Rishiraj-1/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Rishiraj-1/Rishiraj-1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
