@@ -335,13 +335,7 @@ Led end-to-end engineering for a cross-functional hackathon team building produc
 
 ---
 
-## ◈ GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishiraj-1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## ◈ Contribution Activity
 
