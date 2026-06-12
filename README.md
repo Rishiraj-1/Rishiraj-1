@@ -402,7 +402,6 @@ current_focus:
 ---
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishiraj-1&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true)
 
 <div align="center">
   <i>"I don't wait to understand something perfectly before I build it — I build it broken, then fix it until it works."</i>
