@@ -60,7 +60,7 @@ I operate across the complete engineering stack: React/Next.js frontends, FastAP
 </tr>
 </table>
 
-**Open To:**&nbsp; `SWE Internships` &nbsp;`AI Engineering Roles` &nbsp;`Applied AI Collaborations` &nbsp;`Open Source Contributions` &nbsp;`Hackathon Teams`
+**Open To:**&nbsp; `SWE Internships` &nbsp;`AI Engineering Roles` &nbsp;`Applied AI Collaborations` &nbsp;`Open Source Contributions` 
 
 ---
 
